@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # Heagon (Haydon) Lee
 
 Finance Systems | FP&A | Data & Analytics
 
-I design finance and analytics systems that turn fragmented data into structured decision frameworks.
+I design finance systems that eliminate metric inconsistency and enable decision clarity.
 
 ---
 
@@ -21,16 +19,22 @@ I design finance and analytics systems that turn fragmented data into structured
 ## Featured Work
 
 ### GAP Trading Engine
-Rule-based intraday trading system with Python backtesting and structured performance analytics.
+Rule-based trading system designed to test and validate structured intraday strategies with reproducible data.
 
 ### Financial Floor Decision Lab
-Constraint-based personal finance engine modeling financial floor scenarios.
+Decision model that defines minimum financial survival thresholds across life scenarios.
 
 ---
 
 ## Tech Stack
 
 SQL · Python · Power BI · Microsoft Fabric · Excel/VBA · SAP · Anaplan
+
+---
+
+## Approach
+
+Structure first. Then automate. Then scale.
 
 ---
 
